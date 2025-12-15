@@ -2,6 +2,9 @@ This repository will contain projects that I would like to highlight.
 
 🎀 Project Ribbon :
 
+<img width="209" height="173" alt="image" src="https://github.com/user-attachments/assets/be7f4d0b-53f8-4399-9f8b-8abcc1aab927" />
+
+
 Project Ribbon is a game created with Unity during my studies at Humber College.
 The project was to recreate a game. 
 
@@ -22,6 +25,9 @@ Currently, this game contains a working menu, music, Character select, hit boxes
 
 
 🤿 Bus Divers :
+
+<img width="216" height="208" alt="image" src="https://github.com/user-attachments/assets/f5640c72-940b-4a04-a525-da7b0aa622d0" />
+
 
 Bus Divers is a game I created during the time I spent at the 48 Hours 2025 Global Game Jam.
  
