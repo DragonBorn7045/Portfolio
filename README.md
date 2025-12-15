@@ -12,6 +12,9 @@ Currently, there is a Pogo system, a Dash, 3 different enemy types and a final B
 
 🏰 Chaotic Neutral :
 
+<img width="208" height="168" alt="image" src="https://github.com/user-attachments/assets/53f7ae25-c725-4548-a639-c4fddb6ba7ba" />
+
+
 Chaotic Neutral is a fantasy fighting game that was created for my Mid Stone project.
 This game was made in C++, created using SDL.
 
